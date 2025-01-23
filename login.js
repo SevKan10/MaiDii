@@ -1,6 +1,6 @@
 function login() {
     var name = prompt("Biệt Danh Cậu Làaa:");
-    var pass = prompt("Ngày sinh là(liền không dấu nha):");
+    var pass = prompt("Ngày sinh là(số liền không dấu nha):");
     //-----------------đổi tên và mật khẩu
       var user ="Dâu"; 
       var user1 ="dâu"; 
